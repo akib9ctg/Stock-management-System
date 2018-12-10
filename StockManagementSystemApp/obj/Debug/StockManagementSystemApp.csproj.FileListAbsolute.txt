@@ -1,0 +1,45 @@
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Login.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockManagementUI.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SetupCategory.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SetupCompany.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SetupItemUI.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ViewItemUI.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ViewSalesUI.resources
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.dll
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.pdfa.dll
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.xtra.dll
+F:\BITM\Visual Studio Project\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.xml
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.dll
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.xtra.dll
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\itextsharp.xml
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Login.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SetupCategory.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SetupCompany.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.SetupItemUI.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockManagementUI.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ViewItemUI.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ViewSalesUI.resources
+C:\Users\Trainer 402\Desktop\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\BITM\Project 1\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+F:\BITM\Project 1\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+F:\BITM\Project 1\Project 1\Batch 56\Stack_Underflow\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
